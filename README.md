@@ -6,6 +6,8 @@ Xvideos爬虫🥰
 
 重新再把当年的版本开源没意义，索性用[iyzyi/PornhubCreeper](https://github.com/iyzyi/PornhubCreeper)的框架再重构一版吧。
 
+推荐搭配[iyzyi/VideoViewer: Pornhub Xvideos 本地视频浏览](https://github.com/iyzyi/VideoViewer)使用。
+
 ## 使用
 
 1. 安装ffmpeg
